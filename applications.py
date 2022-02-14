@@ -1,2 +1,2 @@
 print ("Some text")
-print ("New2")
+print ("Refact")
