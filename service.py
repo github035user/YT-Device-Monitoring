@@ -1,1 +1,1 @@
-import webbrowser "123"
+import webbrowser "12345"
